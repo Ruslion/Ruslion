@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Open to work as Data Analyst, Python Developer, ML Engineer.
+### Open to work as Data Analyst, Python Developer, Data Scientist.
 
 <!--
 **Ruslion/Ruslion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
